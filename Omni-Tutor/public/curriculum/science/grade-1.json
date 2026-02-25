@@ -1,0 +1,82 @@
+{
+    "subject": "science",
+    "grade": 1,
+    "title": "Grade 1 Science",
+    "description": "Explore the five senses, living and non-living things, and the seasons.",
+    "lessons": [
+        {
+            "id": "sci-1-1",
+            "title": "The Five Senses",
+            "objective": "Identify and describe the five senses and the body parts used for each.",
+            "content": "We use our FIVE SENSES to explore the world around us!\n\n👁️ SIGHT — We use our eyes to see colours, shapes, and movement.\n👂 HEARING — We use our ears to hear sounds like music, rain, and talking.\n👃 SMELL — We use our nose to smell flowers, food, and the fresh air.\n👅 TASTE — We use our tongue to taste sweet, sour, salty, and bitter.\n✋ TOUCH — We use our skin to feel things that are soft, hard, hot, or cold.\n\nEach sense sends messages to our BRAIN, which helps us understand the world!",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "sci-1-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which body part do we use to hear sounds?",
+                    "options": [
+                        "Eyes",
+                        "Ears",
+                        "Nose",
+                        "Tongue"
+                    ],
+                    "correctAnswer": "Ears",
+                    "hint": "Think about what body part helps you listen to music.",
+                    "explanation": "We use our ears to hear sounds! Our ears pick up sound waves and send messages to our brain."
+                },
+                {
+                    "id": "sci-1-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which sense do we use when we feel if something is hot or cold?",
+                    "options": [
+                        "Sight",
+                        "Taste",
+                        "Touch",
+                        "Smell"
+                    ],
+                    "correctAnswer": "Touch",
+                    "hint": "We use our skin and hands for this sense.",
+                    "explanation": "We use our sense of touch! Our skin can feel temperature, textures, and pressure."
+                }
+            ]
+        },
+        {
+            "id": "sci-1-2",
+            "title": "Living and Non-Living Things",
+            "objective": "Tell the difference between living and non-living things.",
+            "content": "Everything around us is either LIVING or NON-LIVING.\n\n🌱 LIVING things:\n  • Breathe (need air)\n  • Eat (need food and water)\n  • Grow (get bigger over time)\n  • Move (can move by themselves)\n  • Reproduce (can make new living things)\n\nExamples: dogs, cats, trees, flowers, fish, YOU!\n\n🪨 NON-LIVING things:\n  • Don't breathe, eat, or grow\n  • Don't move on their own\n  • Don't reproduce\n\nExamples: rocks, water, toys, shoes, books",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "sci-1-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which of these is a living thing?",
+                    "options": [
+                        "A rock",
+                        "A sunflower",
+                        "A toy car",
+                        "A shoe"
+                    ],
+                    "correctAnswer": "A sunflower",
+                    "hint": "Which one grows and needs water?",
+                    "explanation": "A sunflower is living! It grows, needs water and sunlight, and can make seeds."
+                },
+                {
+                    "id": "sci-1-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "What do ALL living things need?",
+                    "options": [
+                        "A house",
+                        "Food and water",
+                        "A name",
+                        "Clothes"
+                    ],
+                    "correctAnswer": "Food and water",
+                    "hint": "Think about what every animal and plant needs to survive.",
+                    "explanation": "All living things need food and water to stay alive and grow!"
+                }
+            ]
+        }
+    ]
+}

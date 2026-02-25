@@ -1,0 +1,82 @@
+{
+    "subject": "literacy",
+    "grade": 4,
+    "title": "Grade 4 Literacy",
+    "description": "Finding the main idea, figurative language, and paragraph writing.",
+    "lessons": [
+        {
+            "id": "lit-4-1",
+            "title": "Finding the Main Idea",
+            "objective": "Learn to identify the main idea and supporting details in a text.",
+            "content": "The MAIN IDEA is the most important point the author is making.\n\n🎯 How to find the MAIN IDEA:\n  1. Ask: 'What is this text mostly about?'\n  2. Look at the TITLE — it often gives a clue\n  3. Check the FIRST and LAST sentences of each paragraph\n  4. Look for REPEATED words or ideas\n\n📝 SUPPORTING DETAILS are facts, examples, or reasons that explain the main idea.\n\nExample paragraph:\n'Dogs make wonderful pets. They are loyal and always happy to see you. Dogs can be trained to follow commands. They also encourage you to exercise by going on walks.'\n\n  Main idea: Dogs make wonderful pets.\n  Supporting details: loyal, can be trained, encourage exercise.",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "lit-4-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "Read: 'Recycling helps protect the environment. It reduces waste in landfills. It saves energy and natural resources. Recycled materials can be made into new products.' What is the main idea?",
+                    "options": [
+                        "Landfills are full",
+                        "Recycling helps protect the environment",
+                        "New products are cool",
+                        "You should save energy"
+                    ],
+                    "correctAnswer": "Recycling helps protect the environment",
+                    "hint": "Look at the first sentence — it often contains the main idea.",
+                    "explanation": "The main idea is 'Recycling helps protect the environment.' The other sentences are supporting details that explain how."
+                },
+                {
+                    "id": "lit-4-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Supporting details help to:",
+                    "options": [
+                        "Start a new topic",
+                        "Explain and prove the main idea",
+                        "End the paragraph",
+                        "Introduce characters"
+                    ],
+                    "correctAnswer": "Explain and prove the main idea",
+                    "hint": "They 'support' the main point with evidence.",
+                    "explanation": "Supporting details provide facts, examples, and reasons that explain and back up the main idea."
+                }
+            ]
+        },
+        {
+            "id": "lit-4-2",
+            "title": "Figurative Language",
+            "objective": "Understand similes, metaphors, and other figurative language.",
+            "content": "FIGURATIVE LANGUAGE makes writing more interesting and vivid!\n\n🔄 SIMILE — compares two things using 'like' or 'as'\n  'She ran like the wind.'\n  'He was as brave as a lion.'\n\n🎭 METAPHOR — says something IS something else\n  'The classroom was a zoo!' (It was very noisy)\n  'Her eyes were diamonds.' (They sparkled)\n\n🗣️ PERSONIFICATION — gives human qualities to non-human things\n  'The wind whispered through the trees.'\n  'The sun smiled down on us.'\n\n📏 HYPERBOLE — extreme exaggeration\n  'I've told you a million times!'\n  'This bag weighs a ton!'\n\nNone of these are literally true — they paint pictures with words! 🎨",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "lit-4-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What type of figurative language is: 'He was as fast as lightning'?",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "correctAnswer": "Simile",
+                    "hint": "Does it use 'like' or 'as' to compare two things?",
+                    "explanation": "It's a simile! It uses 'as...as' to compare his speed to lightning. Similes always use 'like' or 'as'."
+                },
+                {
+                    "id": "lit-4-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "'The trees danced in the wind' is an example of:",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "correctAnswer": "Personification",
+                    "hint": "Can trees really dance? This gives human actions to something non-human.",
+                    "explanation": "This is personification! Trees can't really dance — the author is giving a human action (dancing) to the trees."
+                }
+            ]
+        }
+    ]
+}

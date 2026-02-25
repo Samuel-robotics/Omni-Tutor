@@ -1,0 +1,76 @@
+{
+    "subject": "science",
+    "grade": 5,
+    "title": "Grade 5 Science",
+    "description": "Earth and space, human body systems, and properties of materials.",
+    "lessons": [
+        {
+            "id": "sci-5-1",
+            "title": "Earth and Space",
+            "objective": "Understand the Solar System, day/night, and seasons.",
+            "content": "Our SOLAR SYSTEM has the Sun at the centre with 8 planets orbiting it.\n\n☀️ The Sun is a STAR — a giant ball of hot gas that gives us light and heat.\n\nPlanets in order from the Sun:\n  Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune\n  (My Very Excited Mother Just Served Us Nachos!)\n\n🌍 DAY and NIGHT happen because Earth ROTATES (spins) on its axis.\n  One full rotation = 24 hours (1 day)\n  The side facing the Sun has day; the other side has night.\n\n🌸 SEASONS happen because Earth is TILTED on its axis.\n  When our part tilts toward the Sun → Summer (more sunlight)\n  When our part tilts away from the Sun → Winter (less sunlight)\n  Earth takes 365.25 days to orbit the Sun (1 year).",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "sci-5-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What causes day and night on Earth?",
+                    "options": [
+                        "The Sun moves around Earth",
+                        "Earth rotates on its axis",
+                        "The Moon blocks the Sun",
+                        "Clouds block sunlight"
+                    ],
+                    "correctAnswer": "Earth rotates on its axis",
+                    "hint": "Earth spins like a top — one side faces the Sun at a time.",
+                    "explanation": "Earth rotates (spins) on its axis once every 24 hours. The side facing the Sun experiences day, and the other side has night."
+                },
+                {
+                    "id": "sci-5-1-ex2",
+                    "type": "fill-in",
+                    "question": "How many planets are in our Solar System? (number only)",
+                    "correctAnswer": "8",
+                    "hint": "Count: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+                    "explanation": "There are 8 planets in our Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+                }
+            ]
+        },
+        {
+            "id": "sci-5-2",
+            "title": "Human Body Systems",
+            "objective": "Learn about the circulatory, respiratory, and digestive systems.",
+            "content": "Your body has amazing SYSTEMS that work together:\n\n❤️ CIRCULATORY SYSTEM (blood circulation)\n  • Heart pumps blood around the body\n  • Blood carries oxygen and nutrients to cells\n  • Arteries carry blood AWAY from heart, veins bring it BACK\n\n🫁 RESPIRATORY SYSTEM (breathing)\n  • Lungs take in oxygen from the air\n  • We breathe out carbon dioxide (waste gas)\n  • Air goes: nose/mouth → windpipe → lungs\n\n🍕 DIGESTIVE SYSTEM (breaking down food)\n  • Mouth: chew and mix with saliva\n  • Stomach: acids break food down further\n  • Small intestine: nutrients absorbed into blood\n  • Large intestine: water absorbed, waste formed",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "sci-5-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What organ pumps blood around the body?",
+                    "options": [
+                        "Lungs",
+                        "Brain",
+                        "Heart",
+                        "Stomach"
+                    ],
+                    "correctAnswer": "Heart",
+                    "hint": "Put your hand on your chest — can you feel it beating?",
+                    "explanation": "The heart is a muscle that pumps blood around your body. It beats about 100,000 times a day!"
+                },
+                {
+                    "id": "sci-5-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "Where are nutrients from food absorbed into the blood?",
+                    "options": [
+                        "Mouth",
+                        "Stomach",
+                        "Small intestine",
+                        "Large intestine"
+                    ],
+                    "correctAnswer": "Small intestine",
+                    "hint": "Despite its name, it's very long — about 6 metres!",
+                    "explanation": "The small intestine absorbs nutrients from digested food into the bloodstream. It's about 6 metres long and lined with tiny finger-like villi."
+                }
+            ]
+        }
+    ]
+}

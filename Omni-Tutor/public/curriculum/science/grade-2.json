@@ -1,0 +1,76 @@
+{
+    "subject": "science",
+    "grade": 2,
+    "title": "Grade 2 Science",
+    "description": "States of matter, animal habitats, and pushes and pulls.",
+    "lessons": [
+        {
+            "id": "sci-2-1",
+            "title": "States of Matter",
+            "objective": "Identify solids, liquids, and gases and their properties.",
+            "content": "Everything around us is made of MATTER, and matter exists in three states:\n\n🧊 SOLID — has a fixed shape and size\n  Examples: ice, wood, rock, books\n  Can you hold it? It keeps its shape!\n\n💧 LIQUID — flows and takes the shape of its container\n  Examples: water, milk, juice, oil\n  Pour it into a cup — it fills the cup's shape!\n\n💨 GAS — spreads out to fill all available space\n  Examples: air, steam, helium in balloons\n  You can't usually see it, but it's there!\n\nWater is special — it can be all three:\n  Ice (solid) → Water (liquid) → Steam (gas)",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "sci-2-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which state of matter takes the shape of its container?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "All of them"
+                    ],
+                    "correctAnswer": "Liquid",
+                    "hint": "Think about pouring juice into different cups.",
+                    "explanation": "Liquids flow and take the shape of their container. Pour water into a glass and it becomes glass-shaped!"
+                },
+                {
+                    "id": "sci-2-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "What happens to water when it gets very cold?",
+                    "options": [
+                        "It becomes a gas",
+                        "It disappears",
+                        "It becomes ice (solid)",
+                        "Nothing changes"
+                    ],
+                    "correctAnswer": "It becomes ice (solid)",
+                    "hint": "What happens when you put water in a freezer?",
+                    "explanation": "When water gets very cold (below 0°C), it freezes and becomes ice, which is a solid!"
+                }
+            ]
+        },
+        {
+            "id": "sci-2-2",
+            "title": "Animal Habitats",
+            "objective": "Understand what a habitat is and match animals to their habitats.",
+            "content": "A HABITAT is the place where an animal lives. It provides:\n  • Food to eat\n  • Water to drink\n  • Shelter for safety\n  • Space to move around\n\n🌊 OCEAN — whales, dolphins, fish, sea turtles\n🌳 FOREST — deer, squirrels, owls, bears\n🏜️ DESERT — camels, lizards, scorpions, snakes\n❄️ ARCTIC — polar bears, penguins, seals, arctic foxes\n🌿 POND — frogs, ducks, dragonflies, newts\n\nAnimals have ADAPTATIONS that help them survive:\n  • Polar bears have thick fur (stays warm)\n  • Camels store water (survives in desert)\n  • Fish have gills (breathe underwater)",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "sci-2-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which animal would you most likely find in an arctic habitat?",
+                    "options": [
+                        "Camel",
+                        "Polar bear",
+                        "Parrot",
+                        "Frog"
+                    ],
+                    "correctAnswer": "Polar bear",
+                    "hint": "Which animal has thick white fur for cold places?",
+                    "explanation": "Polar bears live in the Arctic! They have thick fur and a layer of fat to stay warm in freezing temperatures."
+                },
+                {
+                    "id": "sci-2-2-ex2",
+                    "type": "fill-in",
+                    "question": "A habitat provides food, water, shelter, and ______ for animals. (one word)",
+                    "correctAnswer": "space",
+                    "hint": "Animals need room to move, hunt, and explore.",
+                    "explanation": "A habitat provides food, water, shelter, and SPACE for animals to live and move around."
+                }
+            ]
+        }
+    ]
+}

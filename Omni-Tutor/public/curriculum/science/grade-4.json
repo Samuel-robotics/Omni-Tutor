@@ -1,0 +1,76 @@
+{
+    "subject": "science",
+    "grade": 4,
+    "title": "Grade 4 Science",
+    "description": "Electricity and circuits, food chains, and the digestive system.",
+    "lessons": [
+        {
+            "id": "sci-4-1",
+            "title": "Electricity and Circuits",
+            "objective": "Understand how simple electrical circuits work.",
+            "content": "Electricity is a form of ENERGY that powers devices in our lives.\n\nA simple CIRCUIT needs:\n  🔋 A BATTERY (power source)\n  💡 A BULB or BUZZER (component)\n  🔌 WIRES (to connect everything)\n  🔲 A SWITCH (to turn on and off)\n\nFor electricity to flow, the circuit must be COMPLETE — a closed loop!\nIf there's a gap (like an open switch), electricity can't flow.\n\n🔧 CONDUCTORS let electricity flow through them:\n  • Metals (copper, iron, aluminium)\n  • Water (that's why we don't mix electricity and water!)\n\n🛑 INSULATORS block electricity:\n  • Plastic, rubber, wood, glass\n  • That's why wire coatings are made of plastic!",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "sci-4-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What must a circuit be for electricity to flow?",
+                    "options": [
+                        "Open",
+                        "Complete (closed loop)",
+                        "Broken",
+                        "Wet"
+                    ],
+                    "correctAnswer": "Complete (closed loop)",
+                    "hint": "Think about what happens when you break a circuit — does the bulb stay on?",
+                    "explanation": "A circuit must be a complete, closed loop with no gaps for electricity to flow through it."
+                },
+                {
+                    "id": "sci-4-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which of these is an electrical conductor?",
+                    "options": [
+                        "Rubber",
+                        "Plastic",
+                        "Copper",
+                        "Wood"
+                    ],
+                    "correctAnswer": "Copper",
+                    "hint": "Metals are good at letting electricity pass through them.",
+                    "explanation": "Copper is a metal and an excellent electrical conductor. That's why most wires have copper inside!"
+                }
+            ]
+        },
+        {
+            "id": "sci-4-2",
+            "title": "Food Chains",
+            "objective": "Understand how energy passes through a food chain.",
+            "content": "A FOOD CHAIN shows how energy moves from one living thing to another.\n\n☀️ Sun → 🌿 Grass → 🐰 Rabbit → 🦊 Fox\n\nEach part has a name:\n  🌿 PRODUCER — makes its own food using sunlight (plants)\n  🐰 PRIMARY CONSUMER — eats plants (herbivore)\n  🦊 SECONDARY CONSUMER — eats herbivores (carnivore)\n  🦁 TOP PREDATOR — nothing hunts it!\n\nArrows show the direction energy flows (→ means 'is eaten by').\n\nIf one part of the food chain is removed, it affects everything:\n  • No grass? Rabbits have nothing to eat\n  • No rabbits? Foxes have nothing to eat",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "sci-4-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "In a food chain, what is a 'producer'?",
+                    "options": [
+                        "An animal that hunts",
+                        "A factory",
+                        "A plant that makes its own food",
+                        "An animal that eats plants"
+                    ],
+                    "correctAnswer": "A plant that makes its own food",
+                    "hint": "Producers 'produce' food using sunlight.",
+                    "explanation": "Producers are plants that make their own food through photosynthesis using sunlight, water, and carbon dioxide."
+                },
+                {
+                    "id": "sci-4-2-ex2",
+                    "type": "fill-in",
+                    "question": "In the food chain: Grass → Rabbit → Fox, which animal is the primary consumer? (one word)",
+                    "correctAnswer": "Rabbit",
+                    "hint": "The primary consumer is the first animal that eats the producer.",
+                    "explanation": "The rabbit is the primary consumer because it directly eats the producer (grass)."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "subject": "literacy",
+    "grade": 6,
+    "title": "Grade 6 Literacy",
+    "description": "Argumentation, literary analysis, active vs passive voice, and formal writing.",
+    "lessons": [
+        {
+            "id": "lit-6-1",
+            "title": "Writing an Argument",
+            "objective": "Learn to write a persuasive argument with evidence.",
+            "content": "An ARGUMENT essay tries to convince the reader of your viewpoint.\n\n📐 STRUCTURE:\n  1. CLAIM — state your opinion clearly\n     'School uniforms should be compulsory.'\n\n  2. REASONS — give 2-3 strong reasons\n     'They create equality among students.'\n     'They reduce morning decision fatigue.'\n     'They promote school identity.'\n\n  3. EVIDENCE — back up each reason\n     'A study found that 73% of students feel less judged for clothes.'\n\n  4. COUNTER-ARGUMENT — address the opposing view\n     'Some argue uniforms limit self-expression, however...'\n\n  5. CONCLUSION — restate your position strongly\n\n🔑 PERSUASIVE TECHNIQUES:\n  • Rhetorical questions: 'Wouldn't you want a fairer classroom?'\n  • Statistics: 'Research shows that 8 out of 10 teachers agree.'\n  • Emotive language: 'No child should feel excluded because of their clothes.'\n  • Rule of three: lists of three are powerful and memorable",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "lit-6-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What is a 'counter-argument' in persuasive writing?",
+                    "options": [
+                        "Your main point",
+                        "Evidence to support your claim",
+                        "Addressing the opposing viewpoint",
+                        "The conclusion"
+                    ],
+                    "correctAnswer": "Addressing the opposing viewpoint",
+                    "hint": "Counter means 'against' — what might someone who disagrees say?",
+                    "explanation": "A counter-argument acknowledges what someone who disagrees might say, and then explains why your argument is still stronger."
+                },
+                {
+                    "id": "lit-6-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which of these is a rhetorical question?",
+                    "options": [
+                        "What time is lunch?",
+                        "How many students are in class?",
+                        "Wouldn't you want to live in a clean world?",
+                        "Where is my pencil?"
+                    ],
+                    "correctAnswer": "Wouldn't you want to live in a clean world?",
+                    "hint": "A rhetorical question is asked for effect — you don't expect an actual answer.",
+                    "explanation": "A rhetorical question is asked to make a point, not to get an answer. 'Wouldn't you want to live in a clean world?' persuades the reader to agree."
+                }
+            ]
+        },
+        {
+            "id": "lit-6-2",
+            "title": "Analysing Literature",
+            "objective": "Learn how to analyse an author's choices and their effects.",
+            "content": "Literary analysis means looking at HOW and WHY an author writes the way they do.\n\n🔍 KEY QUESTIONS:\n  • What TECHNIQUES does the author use?\n  • What EFFECT do they have on the reader?\n  • WHY did the author make these choices?\n\n📝 P.E.E. structure for analysis:\n  POINT — make a point about the text\n  EVIDENCE — quote from the text\n  EXPLAIN — explain the effect on the reader\n\n✏️ Example:\n  Point: The author creates a sense of danger.\n  Evidence: 'The shadows crept closer, swallowing the last light.'\n  Explain: The personification of shadows 'creeping' and 'swallowing' makes them seem alive and threatening, creating tension for the reader.\n\n🎨 Look for:\n  • Word choice (why THAT word?)\n  • Sentence length (short = tension, long = description)\n  • Imagery (appeals to the senses)\n  • Repetition (what's being emphasised?)",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "lit-6-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What does P.E.E. stand for in literary analysis?",
+                    "options": [
+                        "Plan, Edit, Evaluate",
+                        "Point, Evidence, Explain",
+                        "Paragraph, Example, End",
+                        "Preview, Examine, Elaborate"
+                    ],
+                    "correctAnswer": "Point, Evidence, Explain",
+                    "hint": "It's a structure for writing about texts: make your point, prove it, then say why it matters.",
+                    "explanation": "P.E.E. stands for Point (what you notice), Evidence (a quote from the text), and Explain (what effect it has on the reader)."
+                },
+                {
+                    "id": "lit-6-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "Why might an author use short sentences in a tense scene?",
+                    "options": [
+                        "Because they ran out of ideas",
+                        "To create a fast, urgent pace",
+                        "Because short is easier to write",
+                        "To save space"
+                    ],
+                    "correctAnswer": "To create a fast, urgent pace",
+                    "hint": "Read these short sentences: 'He ran. The door locked. No escape.' — how does that feel?",
+                    "explanation": "Short sentences create pace and urgency. They make the reader read faster, building tension and excitement in action scenes."
+                }
+            ]
+        }
+    ]
+}

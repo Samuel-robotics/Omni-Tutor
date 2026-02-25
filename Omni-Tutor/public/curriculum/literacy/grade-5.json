@@ -1,0 +1,76 @@
+{
+    "subject": "literacy",
+    "grade": 5,
+    "title": "Grade 5 Literacy",
+    "description": "Essay structure, making inferences, and persuasive writing.",
+    "lessons": [
+        {
+            "id": "lit-5-1",
+            "title": "Essay Structure",
+            "objective": "Learn how to plan and write a structured essay.",
+            "content": "A well-structured essay has THREE main parts:\n\n📌 INTRODUCTION\n  • Hook: an interesting opening sentence to grab attention\n  • Background: briefly explain the topic\n  • Thesis: your main argument or point\n\n📝 BODY PARAGRAPHS (usually 2-3)\n  Each paragraph should have:\n  • Topic sentence: the main point of that paragraph\n  • Evidence: facts, examples, or quotes\n  • Explanation: explain how the evidence supports your point\n  • Linking sentence: connect to the next paragraph\n\n🏁 CONCLUSION\n  • Restate your thesis (in different words)\n  • Summarise your main points\n  • End with a final thought or call to action\n\nPlanning tip: Use a MIND MAP or BULLET POINTS before you start writing!",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "lit-5-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What should the introduction of an essay contain?",
+                    "options": [
+                        "Evidence and quotes",
+                        "A hook, background, and thesis",
+                        "A summary of main points",
+                        "Personal opinions only"
+                    ],
+                    "correctAnswer": "A hook, background, and thesis",
+                    "hint": "The introduction introduces your topic and your main argument.",
+                    "explanation": "An introduction should have a hook (to grab attention), background (context), and a thesis (your main argument or point)."
+                },
+                {
+                    "id": "lit-5-1-ex2",
+                    "type": "fill-in",
+                    "question": "The main argument or point of an essay is called the ______. (one word)",
+                    "correctAnswer": "thesis",
+                    "hint": "It's a statement that tells the reader exactly what you'll argue.",
+                    "explanation": "The thesis is your main argument or claim. It tells the reader what your essay is about and what point you'll make."
+                }
+            ]
+        },
+        {
+            "id": "lit-5-2",
+            "title": "Making Inferences",
+            "objective": "Learn to read between the lines and make inferences.",
+            "content": "An INFERENCE is when you work out something that isn't directly stated.\n\nYou use CLUES from the text + your OWN KNOWLEDGE = INFERENCE\n\n🔍 Example:\n  Text: 'Maria grabbed her umbrella as she looked out the window.'\n  Clue: She's getting her umbrella\n  Your knowledge: Umbrellas are used when it rains\n  Inference: It's probably raining (even though the text doesn't say so!)\n\n📖 Good readers always infer:\n  • How characters FEEL (from their actions and words)\n  • WHY things happen (cause and effect)\n  • What might happen NEXT (predictions)\n\n🔑 Step-by-step:\n  1. Find the CLUES in the text\n  2. Think about what you already KNOW\n  3. Put them together to make your INFERENCE\n  4. Check: does your inference make sense?",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "lit-5-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "'Tom slammed his book shut and stomped out of the room.' How is Tom most likely feeling?",
+                    "options": [
+                        "Happy",
+                        "Angry or frustrated",
+                        "Tired",
+                        "Excited"
+                    ],
+                    "correctAnswer": "Angry or frustrated",
+                    "hint": "Look at the action words: 'slammed' and 'stomped' — what emotion do they suggest?",
+                    "explanation": "The words 'slammed' and 'stomped' suggest strong, aggressive actions. We can infer that Tom is angry or frustrated!"
+                },
+                {
+                    "id": "lit-5-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "Making an inference means:",
+                    "options": [
+                        "Copying what the text says",
+                        "Guessing randomly",
+                        "Using clues and knowledge to work out unstated information",
+                        "Asking the teacher"
+                    ],
+                    "correctAnswer": "Using clues and knowledge to work out unstated information",
+                    "hint": "It's like being a detective — using evidence to figure things out.",
+                    "explanation": "Making an inference means combining clues from the text with your own knowledge to understand things that aren't directly stated."
+                }
+            ]
+        }
+    ]
+}

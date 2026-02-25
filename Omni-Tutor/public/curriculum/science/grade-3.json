@@ -1,0 +1,82 @@
+{
+    "subject": "science",
+    "grade": 3,
+    "title": "Grade 3 Science",
+    "description": "Forces and motion, rocks and minerals, and plant life cycles.",
+    "lessons": [
+        {
+            "id": "sci-3-1",
+            "title": "Forces and Motion",
+            "objective": "Understand pushes, pulls, and how forces affect movement.",
+            "content": "A FORCE is a push or a pull that can:\n  • Make things START moving\n  • Make things STOP moving\n  • Change DIRECTION of movement\n  • Change SPEED (faster or slower)\n\n🏋️ Types of forces:\n  PUSH — moves something away from you (kicking a ball)\n  PULL — moves something towards you (pulling open a door)\n  GRAVITY — pulls everything down toward the ground\n  FRICTION — a force that slows things down (rubbing)\n\nFRICTION happens when two surfaces rub together:\n  • Rough surfaces = more friction (harder to slide)\n  • Smooth surfaces = less friction (easier to slide)\n\nGRAVITY pulls everything toward the Earth — that's why things fall down!",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "sci-3-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What type of force slows things down when surfaces rub together?",
+                    "options": [
+                        "Gravity",
+                        "Friction",
+                        "Magnetism",
+                        "Push"
+                    ],
+                    "correctAnswer": "Friction",
+                    "hint": "Think about rubbing your hands together — they get warm and slow down.",
+                    "explanation": "Friction is the force that slows things down when two surfaces rub together. Rough surfaces create more friction!"
+                },
+                {
+                    "id": "sci-3-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which force pulls objects down toward the ground?",
+                    "options": [
+                        "Friction",
+                        "Magnetism",
+                        "Gravity",
+                        "Wind"
+                    ],
+                    "correctAnswer": "Gravity",
+                    "hint": "Why do things fall when you drop them?",
+                    "explanation": "Gravity is the force that pulls everything toward the Earth. It's why things fall when you drop them!"
+                }
+            ]
+        },
+        {
+            "id": "sci-3-2",
+            "title": "Rocks and Minerals",
+            "objective": "Learn about the three types of rocks and how they form.",
+            "content": "Rocks are made of MINERALS (natural, solid substances).\n\nThere are THREE types of rocks:\n\n🌋 IGNEOUS rocks — formed from cooled lava or magma\n  Examples: granite, basalt, pumice\n  Pumice is so light it can float on water!\n\n🏖️ SEDIMENTARY rocks — formed from layers of sand, mud, and shells pressed together\n  Examples: sandstone, limestone, chalk\n  Often have FOSSILS inside!\n\n🔥 METAMORPHIC rocks — formed when heat and pressure change existing rocks\n  Examples: marble (from limestone), slate (from mudstone)\n  Often have beautiful patterns!\n\nThe ROCK CYCLE shows how rocks change from one type to another over millions of years.",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "sci-3-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which type of rock is formed from cooled lava?",
+                    "options": [
+                        "Sedimentary",
+                        "Metamorphic",
+                        "Igneous",
+                        "Fossil"
+                    ],
+                    "correctAnswer": "Igneous",
+                    "hint": "Think: volcanoes! What comes out of them?",
+                    "explanation": "Igneous rocks form when hot lava or magma cools down and hardens. 'Ignis' means fire in Latin!"
+                },
+                {
+                    "id": "sci-3-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which type of rock is most likely to contain fossils?",
+                    "options": [
+                        "Igneous",
+                        "Sedimentary",
+                        "Metamorphic",
+                        "All types equally"
+                    ],
+                    "correctAnswer": "Sedimentary",
+                    "hint": "Fossils form when creatures get buried in layers of sand and mud.",
+                    "explanation": "Sedimentary rocks form from layers of material pressed together over time, which can trap and preserve fossils!"
+                }
+            ]
+        }
+    ]
+}

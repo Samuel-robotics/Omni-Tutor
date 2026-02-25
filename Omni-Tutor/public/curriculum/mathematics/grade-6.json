@@ -1,0 +1,101 @@
+{
+    "subject": "mathematics",
+    "grade": 6,
+    "title": "Grade 6 Mathematics",
+    "description": "Ratios, percentages, basic algebra, and negative numbers.",
+    "lessons": [
+        {
+            "id": "math-6-1",
+            "title": "Ratios and Proportions",
+            "objective": "Understand ratios and use them to solve problems.",
+            "content": "A ratio compares two or more quantities.\n\nWritten as: 2:3 or '2 to 3'\n\nExample: In a class of 30 students, 12 are boys and 18 are girls.\n  Ratio of boys to girls = 12:18 = 2:3 (simplified by dividing both by 6)\n\nSimplifying ratios: divide both numbers by their highest common factor.\n  15:25 → divide both by 5 → 3:5\n\nUsing ratios to find amounts:\n  Split £100 in the ratio 3:2\n  Total parts = 3 + 2 = 5\n  Each part = £100 ÷ 5 = £20\n  First share = 3 × £20 = £60\n  Second share = 2 × £20 = £40",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "math-6-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "Simplify the ratio 20:30",
+                    "options": [
+                        "2:3",
+                        "4:6",
+                        "10:15",
+                        "1:2"
+                    ],
+                    "correctAnswer": "2:3",
+                    "hint": "Find the highest common factor of 20 and 30.",
+                    "explanation": "The HCF of 20 and 30 is 10. Dividing both: 20÷10 = 2, 30÷10 = 3. So the ratio is 2:3."
+                },
+                {
+                    "id": "math-6-1-ex2",
+                    "type": "fill-in",
+                    "question": "Share £60 in the ratio 1:2. How much is the larger share? (number only)",
+                    "correctAnswer": "40",
+                    "hint": "Total parts = 1 + 2 = 3. Find the value of one part first.",
+                    "explanation": "Total parts = 3. Each part = £60 ÷ 3 = £20. Larger share = 2 × £20 = £40."
+                }
+            ]
+        },
+        {
+            "id": "math-6-2",
+            "title": "Percentages",
+            "objective": "Convert between fractions, decimals, and percentages.",
+            "content": "'Per cent' means 'out of 100'.\n\n50% = 50/100 = 0.5 = 1/2\n25% = 25/100 = 0.25 = 1/4\n10% = 10/100 = 0.1 = 1/10\n\nFinding a percentage of an amount:\n  10% of £80 = £80 ÷ 10 = £8\n  25% of £80 = £80 ÷ 4 = £20\n  15% of £80 = 10% + 5% = £8 + £4 = £12\n\nConverting fraction to percentage:\n  3/5 → (3 ÷ 5) × 100 = 60%",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "math-6-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What is 25% of £120?",
+                    "options": [
+                        "£25",
+                        "£30",
+                        "£40",
+                        "£60"
+                    ],
+                    "correctAnswer": "£30",
+                    "hint": "25% means one quarter. Divide by 4.",
+                    "explanation": "25% = 1/4. So £120 ÷ 4 = £30."
+                },
+                {
+                    "id": "math-6-2-ex2",
+                    "type": "fill-in",
+                    "question": "Convert 3/4 to a percentage. (number only)",
+                    "correctAnswer": "75",
+                    "hint": "Divide 3 by 4, then multiply by 100.",
+                    "explanation": "3 ÷ 4 = 0.75. Multiply by 100 = 75%."
+                }
+            ]
+        },
+        {
+            "id": "math-6-3",
+            "title": "Introduction to Algebra",
+            "objective": "Use letters to represent unknown numbers and solve simple equations.",
+            "content": "In algebra, we use letters (like x, y, n) to represent unknown numbers.\n\na + 5 = 12 → What number plus 5 equals 12? → a = 7\n\nRules:\n  • 3x means 3 × x\n  • x² means x × x\n  • Solve by doing the OPPOSITE operation\n\nSolving equations:\n  x + 8 = 15 → subtract 8 from both sides → x = 7\n  3x = 18 → divide both sides by 3 → x = 6\n  x - 4 = 10 → add 4 to both sides → x = 14",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "math-6-3-ex1",
+                    "type": "multiple-choice",
+                    "question": "If x + 7 = 15, what is x?",
+                    "options": [
+                        "22",
+                        "8",
+                        "7",
+                        "9"
+                    ],
+                    "correctAnswer": "8",
+                    "hint": "Subtract 7 from both sides.",
+                    "explanation": "x + 7 = 15 → x = 15 - 7 = 8."
+                },
+                {
+                    "id": "math-6-3-ex2",
+                    "type": "fill-in",
+                    "question": "Solve: 4x = 28. What is x? (number only)",
+                    "correctAnswer": "7",
+                    "hint": "Divide both sides by 4.",
+                    "explanation": "4x = 28 → x = 28 ÷ 4 = 7."
+                }
+            ]
+        }
+    ]
+}

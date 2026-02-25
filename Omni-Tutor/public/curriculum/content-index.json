@@ -1,0 +1,38 @@
+[
+    {
+        "subject": "mathematics",
+        "grades": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "title": "Mathematics"
+    },
+    {
+        "subject": "science",
+        "grades": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "title": "Science"
+    },
+    {
+        "subject": "literacy",
+        "grades": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "title": "Literacy"
+    }
+]

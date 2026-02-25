@@ -1,0 +1,76 @@
+{
+    "subject": "literacy",
+    "grade": 1,
+    "title": "Grade 1 Literacy",
+    "description": "Letter sounds, CVC words, sight words, and simple sentences.",
+    "lessons": [
+        {
+            "id": "lit-1-1",
+            "title": "Letter Sounds (Phonics)",
+            "objective": "Learn the sounds that letters make and how to blend them.",
+            "content": "Every letter makes a SOUND. When we know the sounds, we can READ words!\n\n🔤 Some letter sounds:\n  s — sounds like a snake: ssss\n  a — sounds like you're opening wide at the dentist: aaa\n  t — sounds like tapping: t-t-t\n  p — sounds like popping: p-p-p\n  n — sounds like humming: nnn\n\n📖 BLENDING means pushing sounds together to make words:\n  s + a + t = sat\n  p + a + n = pan\n  t + a + p = tap\n\nPractice: Point to each letter, say its sound, then blend them together!\n  C-A-T → Cat! 🐱\n  D-O-G → Dog! 🐶",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-1-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "If you blend the sounds s-u-n together, what word do you get?",
+                    "options": [
+                        "Sun",
+                        "Sat",
+                        "Sin",
+                        "Son"
+                    ],
+                    "correctAnswer": "Sun",
+                    "hint": "Say each sound slowly: sss — uuu — nnn. Now say them faster!",
+                    "explanation": "When you blend s + u + n together, you get the word 'sun' — that big bright thing in the sky! ☀️"
+                },
+                {
+                    "id": "lit-1-1-ex2",
+                    "type": "fill-in",
+                    "question": "What word do these sounds make: c-a-t? (one word)",
+                    "correctAnswer": "cat",
+                    "hint": "It's a furry pet that says meow!",
+                    "explanation": "c + a + t = cat! A cat is a small furry animal that purrs and meows. 🐱"
+                }
+            ]
+        },
+        {
+            "id": "lit-1-2",
+            "title": "Simple Sentences",
+            "objective": "Learn what makes a simple sentence.",
+            "content": "A SENTENCE is a group of words that tells us something complete.\n\nEvery sentence needs:\n  ✅ A CAPITAL LETTER at the start\n  ✅ A FULL STOP (.) at the end\n  ✅ To make sense!\n\nExamples of good sentences:\n  The cat sat on the mat.\n  I like to play.\n  She can run fast.\n\n❌ Not a sentence: 'the cat' (not complete!)\n❌ Not a sentence: 'sat on mat' (missing parts!)\n\nFingers spaces go between each word so we can read them easily!",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-1-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What goes at the END of a sentence?",
+                    "options": [
+                        "A capital letter",
+                        "A comma",
+                        "A full stop",
+                        "A number"
+                    ],
+                    "correctAnswer": "A full stop",
+                    "hint": "It's a small dot: .",
+                    "explanation": "Every sentence ends with a full stop (.). It tells us the sentence is finished!"
+                },
+                {
+                    "id": "lit-1-2-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which of these is a complete sentence?",
+                    "options": [
+                        "the dog",
+                        "ran fast",
+                        "The dog ran fast.",
+                        "fast dog the"
+                    ],
+                    "correctAnswer": "The dog ran fast.",
+                    "hint": "A complete sentence starts with a capital letter, makes sense, and ends with a full stop.",
+                    "explanation": "'The dog ran fast.' is correct! It has a capital letter, makes complete sense, and ends with a full stop."
+                }
+            ]
+        }
+    ]
+}

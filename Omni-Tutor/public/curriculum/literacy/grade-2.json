@@ -1,0 +1,76 @@
+{
+    "subject": "literacy",
+    "grade": 2,
+    "title": "Grade 2 Literacy",
+    "description": "Sentence types, reading comprehension, and common punctuation.",
+    "lessons": [
+        {
+            "id": "lit-2-1",
+            "title": "Types of Sentences",
+            "objective": "Learn about statements, questions, exclamations, and commands.",
+            "content": "There are FOUR types of sentences:\n\n📝 STATEMENT — tells us something\n  'The sky is blue.'\n  Ends with a full stop (.)\n\n❓ QUESTION — asks something\n  'Is the sky blue?'\n  Ends with a question mark (?)\n\n❗ EXCLAMATION — shows strong feeling\n  'What a beautiful sky!'\n  Ends with an exclamation mark (!)\n\n👉 COMMAND — tells someone to do something\n  'Look at the sky.'\n  Can end with . or !\n\nTip: Read sentences aloud — your voice goes UP for questions and LOUD for exclamations!",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-2-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What type of sentence is: 'Where is my pencil?'",
+                    "options": [
+                        "Statement",
+                        "Question",
+                        "Exclamation",
+                        "Command"
+                    ],
+                    "correctAnswer": "Question",
+                    "hint": "What punctuation mark does it end with?",
+                    "explanation": "It ends with a question mark (?), which means it's asking something — it's a question!"
+                },
+                {
+                    "id": "lit-2-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "What punctuation goes at the end of an exclamation?",
+                    "options": [
+                        "Full stop (.)",
+                        "Question mark (?)",
+                        "Exclamation mark (!)",
+                        "Comma (,)"
+                    ],
+                    "correctAnswer": "Exclamation mark (!)",
+                    "hint": "It shows strong feelings like surprise or excitement!",
+                    "explanation": "Exclamations end with an exclamation mark (!) to show strong feelings: 'Wow, that's amazing!'"
+                }
+            ]
+        },
+        {
+            "id": "lit-2-2",
+            "title": "Reading Comprehension",
+            "objective": "Practice understanding what you read.",
+            "content": "When you read, it's important to UNDERSTAND what the text is saying.\n\nTips for better comprehension:\n\n1️⃣ READ CAREFULLY — don't rush!\n2️⃣ PICTURE IT — imagine what's happening in your mind\n3️⃣ ASK QUESTIONS — Who? What? Where? When? Why?\n4️⃣ RE-READ — if you don't understand, read it again\n5️⃣ KEY WORDS — find the most important words\n\n📖 Practice story:\n'Sam had a red ball. He took it to the park. Sam threw the ball high in the air. His dog Buddy caught it! Sam laughed and threw it again.'\n\nWho? Sam and Buddy\nWhere? The park\nWhat happened? Sam played catch with his dog",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-2-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "In the story, where did Sam take his ball?",
+                    "options": [
+                        "To school",
+                        "To the park",
+                        "To the shops",
+                        "To his friend's house"
+                    ],
+                    "correctAnswer": "To the park",
+                    "hint": "Read the second sentence of the story carefully.",
+                    "explanation": "'He took it to the park.' — Sam went to the park with his red ball."
+                },
+                {
+                    "id": "lit-2-2-ex2",
+                    "type": "fill-in",
+                    "question": "What is the name of Sam's dog? (one word)",
+                    "correctAnswer": "Buddy",
+                    "hint": "Re-read the fourth sentence of the story.",
+                    "explanation": "'His dog Buddy caught it!' — Sam's dog is called Buddy."
+                }
+            ]
+        }
+    ]
+}

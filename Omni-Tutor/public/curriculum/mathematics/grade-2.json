@@ -1,0 +1,70 @@
+{
+    "subject": "mathematics",
+    "grade": 2,
+    "title": "Grade 2 Mathematics",
+    "description": "Building on counting skills with two-digit numbers, place value, and word problems.",
+    "lessons": [
+        {
+            "id": "m2-place-value",
+            "title": "Place Value: Tens and Ones",
+            "objective": "Understand that numbers are made up of tens and ones.",
+            "content": "Every two-digit number is made of tens and ones! The number 34 has 3 tens (30) and 4 ones (4).\n\n**Key Concepts:**\n- The tens digit tells how many groups of 10\n- The ones digit tells how many singles\n- 10 ones = 1 ten\n\n**Example:** 25 = 2 tens + 5 ones = 🔟🔟 + ⚫⚫⚫⚫⚫",
+            "exercises": [
+                {
+                    "id": "m2-pv1",
+                    "type": "multiple-choice",
+                    "question": "How many tens are in the number 47?",
+                    "options": [
+                        "7",
+                        "4",
+                        "47",
+                        "40"
+                    ],
+                    "correctAnswer": "4",
+                    "hint": "The first digit tells you how many tens.",
+                    "explanation": "47 has 4 tens and 7 ones. The 4 is in the tens place!"
+                },
+                {
+                    "id": "m2-pv2",
+                    "type": "fill-in",
+                    "question": "3 tens + 6 ones = ?",
+                    "correctAnswer": "36",
+                    "hint": "3 tens is 30, plus 6 more...",
+                    "explanation": "3 tens = 30, plus 6 ones = 36!"
+                }
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "id": "m2-addition-2digit",
+            "title": "Adding Two-Digit Numbers",
+            "objective": "Add numbers up to 100 with and without regrouping.",
+            "content": "Now that we know place value, we can add bigger numbers! We add the ones first, then the tens.\n\n**Example:** 23 + 14\n- Ones: 3 + 4 = 7\n- Tens: 2 + 1 = 3\n- Answer: 37\n\n**With regrouping:** 27 + 15\n- Ones: 7 + 5 = 12 (write 2, carry 1)\n- Tens: 2 + 1 + 1(carry) = 4\n- Answer: 42",
+            "exercises": [
+                {
+                    "id": "m2-a1",
+                    "type": "multiple-choice",
+                    "question": "What is 31 + 25?",
+                    "options": [
+                        "46",
+                        "56",
+                        "55",
+                        "65"
+                    ],
+                    "correctAnswer": "56",
+                    "hint": "Add the ones: 1+5=6. Add the tens: 3+2=5.",
+                    "explanation": "31 + 25: ones = 1+5 = 6, tens = 3+2 = 5. Answer: 56!"
+                },
+                {
+                    "id": "m2-a2",
+                    "type": "fill-in",
+                    "question": "What is 18 + 14?",
+                    "correctAnswer": "32",
+                    "hint": "8 + 4 = 12, so write 2 and carry 1 to the tens.",
+                    "explanation": "18 + 14: ones = 8+4 = 12 (write 2, carry 1). Tens = 1+1+1 = 3. Answer: 32!"
+                }
+            ],
+            "difficulty": "medium"
+        }
+    ]
+}

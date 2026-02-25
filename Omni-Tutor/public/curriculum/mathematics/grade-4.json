@@ -1,0 +1,95 @@
+{
+  "subject": "mathematics",
+  "grade": 4,
+  "title": "Grade 4 Mathematics",
+  "description": "Fractions, decimals, area and perimeter, and multi-digit multiplication.",
+  "lessons": [
+    {
+      "id": "math-4-1",
+      "title": "Understanding Fractions",
+      "objective": "Learn what fractions are and how to compare them.",
+      "content": "A fraction represents a part of a whole. It has two numbers:\n\n• The NUMERATOR (top number) tells how many parts you have.\n• The DENOMINATOR (bottom number) tells how many equal parts the whole is divided into.\n\nFor example, 3/4 means you have 3 out of 4 equal parts.\n\nComparing fractions with the SAME denominator is easy — just compare the numerators!\n  2/5 < 4/5 because 2 < 4\n\nWhen denominators are DIFFERENT, find a common denominator first:\n  1/3 vs 1/4 → 4/12 vs 3/12 → 1/3 is bigger!",
+      "difficulty": "medium",
+      "exercises": [
+        {
+          "id": "math-4-1-ex1",
+          "type": "multiple-choice",
+          "question": "What does the denominator of a fraction tell you?",
+          "options": ["How many parts you have", "How many equal parts the whole is divided into", "The total value", "The remainder"],
+          "correctAnswer": "How many equal parts the whole is divided into",
+          "hint": "Look at the bottom number — it's about the whole.",
+          "explanation": "The denominator (bottom number) tells you how many equal parts the whole is divided into. For example, in 3/4, the 4 means the whole is split into 4 equal pieces."
+        },
+        {
+          "id": "math-4-1-ex2",
+          "type": "multiple-choice",
+          "question": "Which fraction is larger: 3/8 or 5/8?",
+          "options": ["3/8", "5/8", "They are equal", "Cannot compare"],
+          "correctAnswer": "5/8",
+          "hint": "When denominators are the same, compare the numerators.",
+          "explanation": "Both fractions have denominator 8, so we just compare numerators: 5 > 3, so 5/8 > 3/8."
+        },
+        {
+          "id": "math-4-1-ex3",
+          "type": "fill-in",
+          "question": "Write the fraction for 'two out of five parts': (write as a/b)",
+          "correctAnswer": "2/5",
+          "hint": "The numerator is how many parts you have, the denominator is the total parts.",
+          "explanation": "Two parts out of five means the numerator is 2 and the denominator is 5, giving us 2/5."
+        }
+      ]
+    },
+    {
+      "id": "math-4-2",
+      "title": "Introduction to Decimals",
+      "objective": "Understand the relationship between fractions and decimals.",
+      "content": "Decimals are another way to write fractions!\n\nThe decimal point separates whole numbers from parts:\n  3.5 means 3 and 5 tenths (3 + 5/10)\n  0.25 means 25 hundredths (25/100 = 1/4)\n\nPlace values after the decimal:\n  • First place: TENTHS (1/10)\n  • Second place: HUNDREDTHS (1/100)\n  • Third place: THOUSANDTHS (1/1000)\n\nConverting fractions to decimals:\n  1/2 = 0.5\n  1/4 = 0.25\n  3/4 = 0.75",
+      "difficulty": "medium",
+      "exercises": [
+        {
+          "id": "math-4-2-ex1",
+          "type": "multiple-choice",
+          "question": "What is 1/4 as a decimal?",
+          "options": ["0.14", "0.25", "0.4", "0.75"],
+          "correctAnswer": "0.25",
+          "hint": "Think: 1 ÷ 4 = ?",
+          "explanation": "1/4 = 1 ÷ 4 = 0.25. You can also think of it as 25 out of 100 pennies in a pound."
+        },
+        {
+          "id": "math-4-2-ex2",
+          "type": "fill-in",
+          "question": "What is 0.5 as a fraction? (write in simplest form as a/b)",
+          "correctAnswer": "1/2",
+          "hint": "0.5 means 5 tenths. Can you simplify 5/10?",
+          "explanation": "0.5 = 5/10 = 1/2 when simplified (divide both by 5)."
+        }
+      ]
+    },
+    {
+      "id": "math-4-3",
+      "title": "Area and Perimeter",
+      "objective": "Calculate the area and perimeter of rectangles.",
+      "content": "PERIMETER is the distance around a shape.\nFor a rectangle: Perimeter = 2 × (length + width)\n\nAREA is the space inside a shape.\nFor a rectangle: Area = length × width\n\nExample: A rectangle with length 6 cm and width 4 cm:\n  Perimeter = 2 × (6 + 4) = 2 × 10 = 20 cm\n  Area = 6 × 4 = 24 cm²\n\nRemember: Perimeter is measured in cm, m, etc.\n          Area is measured in cm², m², etc. (squared units!)",
+      "difficulty": "medium",
+      "exercises": [
+        {
+          "id": "math-4-3-ex1",
+          "type": "multiple-choice",
+          "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+          "options": ["13 cm²", "26 cm²", "40 cm²", "80 cm²"],
+          "correctAnswer": "40 cm²",
+          "hint": "Area = length × width",
+          "explanation": "Area = 8 × 5 = 40 cm². Remember to use squared units for area!"
+        },
+        {
+          "id": "math-4-3-ex2",
+          "type": "fill-in",
+          "question": "A rectangle has length 10 m and width 3 m. What is its perimeter in metres? (number only)",
+          "correctAnswer": "26",
+          "hint": "Perimeter = 2 × (length + width)",
+          "explanation": "Perimeter = 2 × (10 + 3) = 2 × 13 = 26 metres."
+        }
+      ]
+    }
+  ]
+}

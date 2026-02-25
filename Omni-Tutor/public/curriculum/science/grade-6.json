@@ -1,0 +1,76 @@
+{
+    "subject": "science",
+    "grade": 6,
+    "title": "Grade 6 Science",
+    "description": "Cells, energy transfer, ecosystems, and evolution basics.",
+    "lessons": [
+        {
+            "id": "sci-6-1",
+            "title": "Introduction to Cells",
+            "objective": "Understand what cells are and the differences between plant and animal cells.",
+            "content": "All living things are made of CELLS — the building blocks of life!\n\n🔬 CELL PARTS (both plant and animal):\n  • CELL MEMBRANE — thin outer layer, controls what goes in and out\n  • CYTOPLASM — jelly-like substance where chemical reactions happen\n  • NUCLEUS — the 'brain' of the cell, holds DNA instructions\n  • MITOCHONDRIA — 'power stations' that release energy from food\n\n🌿 PLANT CELLS have extra parts:\n  • CELL WALL — rigid outer layer for support (made of cellulose)\n  • CHLOROPLASTS — contain chlorophyll for photosynthesis (making food)\n  • VACUOLE — large, stores water and nutrients\n\nSome organisms are UNICELLULAR (one cell, like bacteria).\nHumans are MULTICELLULAR (trillions of cells!).",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "sci-6-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "Which cell part is called the 'brain' of the cell because it holds DNA?",
+                    "options": [
+                        "Cell membrane",
+                        "Cytoplasm",
+                        "Nucleus",
+                        "Mitochondria"
+                    ],
+                    "correctAnswer": "Nucleus",
+                    "hint": "This is the control centre that contains genetic information.",
+                    "explanation": "The nucleus contains DNA (genetic instructions) and controls the cell's activities, like a brain controls the body!"
+                },
+                {
+                    "id": "sci-6-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "Which structure is found in plant cells but NOT in animal cells?",
+                    "options": [
+                        "Nucleus",
+                        "Cell membrane",
+                        "Chloroplasts",
+                        "Mitochondria"
+                    ],
+                    "correctAnswer": "Chloroplasts",
+                    "hint": "This is related to photosynthesis — making food from sunlight.",
+                    "explanation": "Chloroplasts are unique to plant cells. They contain chlorophyll which captures sunlight for photosynthesis."
+                }
+            ]
+        },
+        {
+            "id": "sci-6-2",
+            "title": "Energy Transfer and Ecosystems",
+            "objective": "Understand energy flow in ecosystems and food webs.",
+            "content": "ECOSYSTEMS are communities of living things interacting with their environment.\n\nEnergy flows through ecosystems:\n  ☀️ Sun → Producers → Primary Consumers → Secondary Consumers → Top Predators\n\nFOOD WEBS are more realistic than food chains:\n  A fox might eat rabbits AND mice\n  A rabbit might be eaten by foxes AND hawks\n  Food webs show ALL the feeding relationships\n\nENERGY PYRAMID:\n  Each level gets less energy (about 10% passes up)\n  That's why there are fewer top predators than producers!\n\n  🦁 Top predators (few)\n  🦊 Secondary consumers\n  🐰 Primary consumers\n  🌿 Producers (many)\n\nIf one species is removed, it can cause a RIPPLE EFFECT through the whole ecosystem.",
+            "difficulty": "hard",
+            "exercises": [
+                {
+                    "id": "sci-6-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "Why are there fewer top predators than producers in an ecosystem?",
+                    "options": [
+                        "They are bigger",
+                        "Energy is lost at each level",
+                        "They live shorter lives",
+                        "They eat less"
+                    ],
+                    "correctAnswer": "Energy is lost at each level",
+                    "hint": "Think about the energy pyramid — only about 10% passes to the next level.",
+                    "explanation": "Only about 10% of energy passes from one trophic level to the next. The rest is used for life processes or lost as heat. That's why fewer organisms can be supported at the top!"
+                },
+                {
+                    "id": "sci-6-2-ex2",
+                    "type": "fill-in",
+                    "question": "A food ______ shows ALL the feeding relationships in an ecosystem. (one word)",
+                    "correctAnswer": "web",
+                    "hint": "It's more complex than a food chain — it's a food...",
+                    "explanation": "A food WEB shows all the interconnected feeding relationships in an ecosystem, while a food chain shows just one path."
+                }
+            ]
+        }
+    ]
+}

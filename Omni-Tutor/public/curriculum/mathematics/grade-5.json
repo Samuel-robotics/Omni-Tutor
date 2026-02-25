@@ -1,0 +1,84 @@
+{
+    "subject": "mathematics",
+    "grade": 5,
+    "title": "Grade 5 Mathematics",
+    "description": "Order of operations, volume, coordinate planes, and fraction operations.",
+    "lessons": [
+        {
+            "id": "math-5-1",
+            "title": "Order of Operations",
+            "objective": "Learn BIDMAS/BODMAS rules for solving expressions.",
+            "content": "When an expression has multiple operations, use BIDMAS:\n\n  B — Brackets first\n  I — Indices (powers)\n  D — Division\n  M — Multiplication\n  A — Addition\n  S — Subtraction\n\nDivision and Multiplication are done left to right.\nAddition and Subtraction are done left to right.\n\nExample: 3 + 4 × 2 = 3 + 8 = 11 (NOT 14!)\nExample: (3 + 4) × 2 = 7 × 2 = 14 (brackets change order!)",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "math-5-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What is 2 + 3 × 4?",
+                    "options": [
+                        "20",
+                        "14",
+                        "24",
+                        "12"
+                    ],
+                    "correctAnswer": "14",
+                    "hint": "Remember BIDMAS — multiplication comes before addition.",
+                    "explanation": "First do 3 × 4 = 12, then 2 + 12 = 14. Multiplication before addition!"
+                },
+                {
+                    "id": "math-5-1-ex2",
+                    "type": "fill-in",
+                    "question": "Solve: (6 + 2) × 3 = ? (number only)",
+                    "correctAnswer": "24",
+                    "hint": "Do the brackets first!",
+                    "explanation": "Brackets first: 6 + 2 = 8, then 8 × 3 = 24."
+                },
+                {
+                    "id": "math-5-1-ex3",
+                    "type": "multiple-choice",
+                    "question": "What is 20 ÷ 4 + 3 × 2?",
+                    "options": [
+                        "16",
+                        "11",
+                        "13",
+                        "7"
+                    ],
+                    "correctAnswer": "11",
+                    "hint": "Do division and multiplication first (left to right), then addition.",
+                    "explanation": "20 ÷ 4 = 5, then 3 × 2 = 6, then 5 + 6 = 11."
+                }
+            ]
+        },
+        {
+            "id": "math-5-2",
+            "title": "Volume of 3D Shapes",
+            "objective": "Calculate the volume of rectangular prisms (cuboids).",
+            "content": "Volume measures the space inside a 3D shape.\n\nFor a rectangular prism (cuboid):\n  Volume = length × width × height\n\nVolume is measured in cubic units: cm³, m³\n\nExample: A box is 5 cm long, 3 cm wide, and 2 cm tall.\n  Volume = 5 × 3 × 2 = 30 cm³\n\nA cube has all sides equal, so:\n  Volume of cube = side × side × side = side³",
+            "difficulty": "medium",
+            "exercises": [
+                {
+                    "id": "math-5-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "What is the volume of a box that is 4 cm × 3 cm × 2 cm?",
+                    "options": [
+                        "9 cm³",
+                        "24 cm³",
+                        "18 cm³",
+                        "12 cm³"
+                    ],
+                    "correctAnswer": "24 cm³",
+                    "hint": "Volume = length × width × height",
+                    "explanation": "Volume = 4 × 3 × 2 = 24 cm³. We multiply all three dimensions!"
+                },
+                {
+                    "id": "math-5-2-ex2",
+                    "type": "fill-in",
+                    "question": "A cube has sides of 5 cm. What is its volume in cm³? (number only)",
+                    "correctAnswer": "125",
+                    "hint": "For a cube, volume = side × side × side",
+                    "explanation": "Volume = 5 × 5 × 5 = 125 cm³."
+                }
+            ]
+        }
+    ]
+}

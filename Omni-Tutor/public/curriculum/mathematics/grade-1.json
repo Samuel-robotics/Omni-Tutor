@@ -1,0 +1,129 @@
+{
+    "subject": "mathematics",
+    "grade": 1,
+    "title": "Grade 1 Mathematics",
+    "description": "Foundational number sense, counting, and basic addition and subtraction.",
+    "lessons": [
+        {
+            "id": "m1-counting",
+            "title": "Counting to 20",
+            "objective": "Learn to count objects from 1 to 20 confidently.",
+            "content": "Counting is the foundation of all mathematics! Let's start by counting objects around us. Hold up your fingers — how many do you have? That's right, 10! Now let's learn to count all the way to 20.\n\n**Key Concepts:**\n- Numbers go in order: 1, 2, 3, 4, 5...\n- Each number is one more than the last\n- We can count anything: toys, apples, steps!\n\n**Practice:** Count the stars: ⭐⭐⭐⭐⭐⭐⭐ — How many stars do you see?",
+            "exercises": [
+                {
+                    "id": "m1-c1",
+                    "type": "multiple-choice",
+                    "question": "How many apples are here? 🍎🍎🍎🍎🍎",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswer": "5",
+                    "hint": "Point to each apple and count: one, two, three...",
+                    "explanation": "There are 5 apples! We count each one: 🍎1, 🍎2, 🍎3, 🍎4, 🍎5."
+                },
+                {
+                    "id": "m1-c2",
+                    "type": "multiple-choice",
+                    "question": "What number comes after 7?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "correctAnswer": "8",
+                    "hint": "Count: 5, 6, 7, ...?",
+                    "explanation": "8 comes after 7! The numbers go in order: 6, 7, 8, 9, 10."
+                },
+                {
+                    "id": "m1-c3",
+                    "type": "fill-in",
+                    "question": "Count the hearts: ❤️❤️❤️❤️❤️❤️❤️❤️❤️ — How many are there?",
+                    "correctAnswer": "9",
+                    "hint": "Touch each heart as you count.",
+                    "explanation": "There are 9 hearts! Great counting!"
+                }
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "id": "m1-addition",
+            "title": "Adding Numbers (Up to 10)",
+            "objective": "Understand what addition means and solve simple addition problems.",
+            "content": "Addition means putting things together! When we add, we combine two groups to find out how many there are in total.\n\n**Key Concepts:**\n- The + sign means 'and' or 'plus'\n- The = sign means 'equals' or 'makes'\n- 2 + 3 means 'two things and three more things'\n\n**Example:** You have 2 apples 🍎🍎 and your friend gives you 3 more 🍎🍎🍎. Now you have 🍎🍎🍎🍎🍎 = 5 apples!",
+            "exercises": [
+                {
+                    "id": "m1-a1",
+                    "type": "multiple-choice",
+                    "question": "What is 2 + 3?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "correctAnswer": "5",
+                    "hint": "Hold up 2 fingers on one hand and 3 on the other. Count them all!",
+                    "explanation": "2 + 3 = 5! Two fingers plus three fingers equals five fingers total."
+                },
+                {
+                    "id": "m1-a2",
+                    "type": "multiple-choice",
+                    "question": "What is 4 + 1?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "correctAnswer": "5",
+                    "hint": "Start at 4, then count one more.",
+                    "explanation": "4 + 1 = 5! Starting from 4, we count one more: 5!"
+                },
+                {
+                    "id": "m1-a3",
+                    "type": "fill-in",
+                    "question": "🐱🐱🐱 + 🐱🐱 = ?",
+                    "correctAnswer": "5",
+                    "hint": "Count all the cats together.",
+                    "explanation": "3 cats + 2 cats = 5 cats! 🐱🐱🐱🐱🐱"
+                }
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "id": "m1-subtraction",
+            "title": "Taking Away (Subtraction to 10)",
+            "objective": "Understand subtraction as taking away and solve basic problems.",
+            "content": "Subtraction means taking away! When we subtract, we start with a group and remove some.\n\n**Key Concepts:**\n- The − sign means 'take away' or 'minus'\n- 5 − 2 means 'start with five, take away two'\n- What's left is the answer!\n\n**Example:** You have 5 cookies 🍪🍪🍪🍪🍪 and you eat 2 🍪🍪. Now you have 🍪🍪🍪 = 3 cookies left!",
+            "exercises": [
+                {
+                    "id": "m1-s1",
+                    "type": "multiple-choice",
+                    "question": "What is 5 − 2?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "correctAnswer": "3",
+                    "hint": "Hold up 5 fingers, then put down 2. How many are still up?",
+                    "explanation": "5 − 2 = 3! Start with 5, take away 2, and you have 3 left."
+                },
+                {
+                    "id": "m1-s2",
+                    "type": "fill-in",
+                    "question": "You have 4 balloons 🎈🎈🎈🎈 and 1 pops! How many are left?",
+                    "correctAnswer": "3",
+                    "hint": "4 take away 1 equals...?",
+                    "explanation": "4 − 1 = 3! You started with 4, one popped, so you have 3 balloons left. 🎈🎈🎈"
+                }
+            ],
+            "difficulty": "easy"
+        }
+    ]
+}

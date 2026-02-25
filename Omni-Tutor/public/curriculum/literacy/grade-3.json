@@ -1,0 +1,76 @@
+{
+    "subject": "literacy",
+    "grade": 3,
+    "title": "Grade 3 Literacy",
+    "description": "Paragraphs, story elements, nouns, verbs, and adjectives.",
+    "lessons": [
+        {
+            "id": "lit-3-1",
+            "title": "Story Elements",
+            "objective": "Identify the main parts of a story: characters, setting, and plot.",
+            "content": "Every good story has these KEY PARTS:\n\n👤 CHARACTERS — the people or animals in the story\n  Main character: the most important one\n  Supporting characters: helpers, friends, or villains\n\n🏡 SETTING — WHERE and WHEN the story takes place\n  Where: a forest, a school, a castle, outer space\n  When: long ago, present day, the future\n\n📖 PLOT — WHAT HAPPENS in the story\n  BEGINNING — introduces characters and setting\n  MIDDLE — the PROBLEM or challenge appears\n  END — the problem is SOLVED (resolution)\n\nExample: Goldilocks and the Three Bears\n  Characters: Goldilocks, three bears\n  Setting: a cottage in the forest\n  Problem: Goldilocks uses the bears' things without asking\n  Resolution: The bears come home and Goldilocks runs away!",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-3-1-ex1",
+                    "type": "multiple-choice",
+                    "question": "What does the 'setting' of a story tell us?",
+                    "options": [
+                        "Who the characters are",
+                        "Where and when the story happens",
+                        "What the problem is",
+                        "How the story ends"
+                    ],
+                    "correctAnswer": "Where and when the story happens",
+                    "hint": "Think about the place and time of the story.",
+                    "explanation": "The setting tells us WHERE the story takes place (a forest, a school) and WHEN it happens (past, present, future)."
+                },
+                {
+                    "id": "lit-3-1-ex2",
+                    "type": "multiple-choice",
+                    "question": "In a story plot, the 'middle' usually introduces what?",
+                    "options": [
+                        "The characters",
+                        "The setting",
+                        "The problem or challenge",
+                        "The moral"
+                    ],
+                    "correctAnswer": "The problem or challenge",
+                    "hint": "The beginning introduces characters and setting, the middle has the exciting part...",
+                    "explanation": "The middle of a story usually introduces the problem or challenge that the characters need to solve!"
+                }
+            ]
+        },
+        {
+            "id": "lit-3-2",
+            "title": "Nouns, Verbs, and Adjectives",
+            "objective": "Identify and use nouns, verbs, and adjectives correctly.",
+            "content": "Words have different JOBS in a sentence:\n\n📦 NOUNS — naming words (people, places, things)\n  cat, London, happiness, teacher, park\n  Ask: 'Can I put THE in front of it?' → The cat ✅\n\n🏃 VERBS — doing or being words (actions)\n  run, jump, eat, is, was, think\n  Ask: 'Can I do it?' or 'Can I be it?'\n\n🎨 ADJECTIVES — describing words (tell us more about nouns)\n  big, happy, red, fluffy, old\n  Ask: 'What is it LIKE?'\n\n✏️ Example: The fluffy cat sat on the old mat.\n  Nouns: cat, mat\n  Verb: sat\n  Adjectives: fluffy, old",
+            "difficulty": "easy",
+            "exercises": [
+                {
+                    "id": "lit-3-2-ex1",
+                    "type": "multiple-choice",
+                    "question": "In the sentence 'The happy dog ran fast', which word is the adjective?",
+                    "options": [
+                        "The",
+                        "happy",
+                        "dog",
+                        "ran"
+                    ],
+                    "correctAnswer": "happy",
+                    "hint": "An adjective describes a noun — which word tells us what the dog is like?",
+                    "explanation": "'Happy' is the adjective — it describes the dog, telling us what the dog is like!"
+                },
+                {
+                    "id": "lit-3-2-ex2",
+                    "type": "fill-in",
+                    "question": "In 'The cat jumped over the fence', which word is the verb? (one word)",
+                    "correctAnswer": "jumped",
+                    "hint": "The verb is the 'doing' word — what action did the cat do?",
+                    "explanation": "'Jumped' is the verb — it tells us what the cat DID. Verbs are action words!"
+                }
+            ]
+        }
+    ]
+}
