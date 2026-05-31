@@ -23,8 +23,13 @@ const withPWA = require('next-pwa')({
   ],
 });
 
+const isGithubPages = process.env.GITHUB_PAGES === 'true';
+const basePath = isGithubPages ? '/Omni-Tutor' : '';
+
 module.exports = withPWA({
   output: 'export',
   distDir: 'dist',
+  basePath,
+  assetPrefix: basePath ? `${basePath}/` : undefined,
   images: { unoptimized: true },
 });
